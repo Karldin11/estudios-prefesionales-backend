@@ -1,7 +1,0 @@
-{
-  "env": {
-    "DB_USER": "karla",
-    "DB_PASSWORD": "kardin",
-    "DB_NAME": "profesionales"
-  }
-}
